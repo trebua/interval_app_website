@@ -5,6 +5,7 @@
  **/
 const nextConfig = {
   basePath: '/interval_app_website',
+  distDir: 'out'
 }
 
 module.exports = nextConfig
