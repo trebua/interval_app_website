@@ -4,7 +4,7 @@
  * @type {import('next').NextConfig}
  **/
 const nextConfig = {
-  basePath: '/gh-pages-test',
+  basePath: '/interval_app_website',
 }
 
 module.exports = nextConfig
